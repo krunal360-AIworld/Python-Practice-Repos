@@ -1,3 +1,7 @@
 # Python-Practice-Repos
-Here I am adding my Python practice projects, which I build side-by-side during my Python learning journey to help implement various concepts.
+A collection of beginner-friendly Python projects built to practice programming fundamentals, strengthen problem-solving skills, and gain hands-on coding experience.
+
+📌 About
+
+This repository contains small Python projects developed as part of my programming journey. Each project focuses on applying core Python concepts through practical implementation.
 1. Simple_Calculator
