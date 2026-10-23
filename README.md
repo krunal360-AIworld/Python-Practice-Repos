@@ -46,3 +46,24 @@ Concepts Used:
 - ASCII Art
 - F-Strings
 
+### 3. Password Generator 🔐
+
+A simple password generator built using Python as part of my Python practice projects.
+
+**Features:**
+
+- Allows users to choose the number of letters, numbers, and symbols.
+- Generates random letters, numbers, and symbols.
+- Shuffles the generated characters to create a mixed password.
+- Displays the generated password.
+
+**Concepts Used:**
+
+- Variables and Lists
+- User Input (`input()`)
+- Type Conversion (`int()`)
+- For Loops
+- Random Module (`random.choice()`, `random.shuffle()`)
+- String Concatenation
+- List Conversion (`list()`)
+- String Joining (`join()`)
